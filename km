@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+print("Weclome to GITHUB");
+return 0;
+}
